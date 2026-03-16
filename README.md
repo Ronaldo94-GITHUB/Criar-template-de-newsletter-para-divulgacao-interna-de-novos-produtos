@@ -1,7 +1,7 @@
 # Criar-template-de-newsletter-para-divulgacao-interna-de-novos-produtos
 Atividade DIO LUPO
 
-[Visual da Newsletter Interna](imagem_Newsletter.png)
+![Capa da Newsletter Interna](images/capa.png)
 
 ---
 
