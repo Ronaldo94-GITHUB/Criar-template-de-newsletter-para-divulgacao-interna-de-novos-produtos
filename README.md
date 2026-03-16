@@ -1,9 +1,6 @@
 # Criar-template-de-newsletter-para-divulgacao-interna-de-novos-produtos
 Atividade DIO LUPO
 
-![Capa do Projeto](![imagem_Newsletter.png)
-
-
 ---
 
 📰 Newsletter Interna — Novidades de Produto (03 a 07 de março)
@@ -55,5 +52,7 @@ O Catálogo de Produtos será atualizado automaticamente? → Sim, os donos de c
 
 📬 Encerramento
 Essas melhorias foram pensadas para facilitar o dia a dia e aumentar a eficiência dos times. Em caso de dúvidas, procure os canais internos de suporte ou fale diretamente com os responsáveis de cada produto.
+
+LINK:https://docs.google.com/document/d/13xKt6N0PwIACcekiyexcy_4HRoSsj14TWBTZ46mqnPA/edit?pli=1&tab=t.0#heading=h.5eszxqgpmd1e
 
 
